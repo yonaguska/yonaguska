@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yonaguska
-- 👀 I’m interested in eletronics and programming.
+- 👀 I’m interested in electronics and programming.
 - 🌱 I’m currently using Raspberry Pi Pico with MicroPython and CircuitPython.
 - 📫 How to reach me yonaguska2050@gmail.com
 
